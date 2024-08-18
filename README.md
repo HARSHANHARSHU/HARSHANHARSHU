@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HARSHANHARSHU
 - 👀 I’m interested in ... EH
-- 🌱 I’m currently learning ... Final year B.Sc CSC
+- 🌱 I’m Completed My B.Sc CSC @ Rathinam College of Arts and Science
 - 📫 How to reach me ... harshanharshu56@gmail.com
 
 <!---
