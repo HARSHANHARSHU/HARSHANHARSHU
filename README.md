@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/vapt-%23FF6F00.svg?style=for-the-badge&logo=vapt&logoColor=white" style="margin-right: 10px">
     <img src="https://img.shields.io/badge/bug%20bounty-%233B9A57.svg?style=for-the-badge&logo=bugbounty&logoColor=white" style="margin-right: 10px">
     <img src="https://img.shields.io/badge/python-%233B8EFC.svg?style=for-the-badge&logo=python&logoColor=white" style="margin-right: 10px">
+    <img src="https://img.shields.io/badge/ethical%20hacking-%23FF4B2F.svg?style=for-the-badge&logo=ethicalhacking&logoColor=white" style="margin-right: 10px">
+    <img src="https://img.shields.io/badge/networking-%231F8A70.svg?style=for-the-badge&logo=networking&logoColor=white">
 </div>
 
 ## 🎓 Education
